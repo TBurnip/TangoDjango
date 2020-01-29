@@ -55,7 +55,7 @@ ROOT_URLCONF = 'tango_with_django_project.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['/Users/thomasburnip/OneDrive/Uni Stuff/Level 2/Sem 2/Web APP Dev 2/TangoWithDjangoUnchained/tango_with_django_project/templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
